@@ -1,3 +1,66 @@
-.detail{
-    color: red;
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#__layout{
+    height: 100%;
+    width: 100%;
+    position: absolute;
+}
+body{
+    display: block;
+    font-size: 14px;
+    font-family: \\5FAE\8F6F\96C5\9ED1;
+    color: #0e293f;
+}
+ul li{
+    list-style:none;
+    border-color: transparent; height: 98px; width: 89px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.at_header {
+    height:100px;
+    text-align:center;
+    margin:0px;
+}
+.hd-main{
+    position: absolute;
+    width: 100%;
+}
+.hd_bt{
+    display: flex;
+    justify-content: center;
+}
+.pc_text{
+    position: absolute;
+    padding-left: 2px; text-align: left;
+    top: 26px;
+    left: 160px;
+}
+.at_container{
+    height: 80%;
+    width: 100%;
+}
+.ct_1{
+    position: absolute;
+    height:auto;
+    width: 100%;
+    background-image: url("https://image.zuma.com/image/1153267496335773579.jpg");
+}
+.zm-component-shape-block{
+    position: relative;
+    top: 72%;
+}
+.x18uubad5jgo{
+    position: absolute;
+    width: 584px;
+    height: 64px;
+    left: 84px;
+    top: 336px;
+    transform: rotate(0deg); display: block;
+}
+.at_footer{
+    height: 20%;
 }
