@@ -42,23 +42,22 @@ ul li{
 .at_container{
     height: 80%;
     width: 100%;
+    position:relative;
 }
 .ct_1{
-    position: absolute;
     height:auto;
     width: 100%;
     background-image: url("https://image.zuma.com/image/1153267496335773579.jpg");
 }
 .zm-component-shape-block{
-    position: relative;
+    position: absolute;
     top: 72%;
 }
 .x18uubad5jgo{
     position: absolute;
-    width: 584px;
+    width: auto;
     height: 64px;
-    left: 84px;
-    top: 336px;
+    top: 25%;
     transform: rotate(0deg); display: block;
 }
 .at_footer{
